@@ -27,6 +27,7 @@ PROJETO-ANHANGUERA/
 ├── interface/
 
 │ ├── init.py
+
 │ └── interface_gui_melhorada.py # Interface gráfica corrigida (4 abas)
 
 ├── arquivos csv/
